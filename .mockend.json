@@ -15,5 +15,5 @@
     "players": "int",
     "createdAt": "date",
     "comments": "Comment[]"
-  },
+  }
 }
