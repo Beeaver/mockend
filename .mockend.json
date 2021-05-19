@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "Players": {
+  "Player": {
     "province": "string",
     "players": "int",
     "createdAt": "date",
