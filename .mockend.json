@@ -13,7 +13,6 @@
   "Players": {
     "province": "string",
     "players": "int",
-    "month": "January | February",
     "createdAt": "date",
     "comments": "Comment[]"
   },
